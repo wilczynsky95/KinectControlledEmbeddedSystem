@@ -1,6 +1,7 @@
 # KinectControlledEmbeddedSystem
 
 Application enables human natural interaction with embedded system. Kinect sensor is used to capture RGB image and depth map which is then used to decompose human figure and transform into skeleton. PC and the microcontroller are communicated via serial port. 
+
 Check ---> [Presentation Video](https://youtu.be/mrOUgTbqgY0) to see how the system works.
 
 LIBRARIES
