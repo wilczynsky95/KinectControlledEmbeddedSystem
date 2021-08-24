@@ -1,6 +1,7 @@
 # KinectControlledEmbeddedSystem
 
-Application enables human natural interaction with embedded system. Kinect sensor is used to capture RGB image and depth map which is then used to decompose human figure and transform into skeleton. PC and the microcontroller are communicated via serial port.
+Application enables human natural interaction with embedded system. Kinect sensor is used to capture RGB image and depth map which is then used to decompose human figure and transform into skeleton. PC and the microcontroller are communicated via serial port. 
+Check ---> [Presentation Video](https://youtu.be/mrOUgTbqgY0) to see how the system works.
 
 LIBRARIES
 ======
@@ -25,4 +26,4 @@ USER INTERFACE
 
 + __Red and green point__ - represents position of right and left hand
 
-When the point representing the hand comes into contact with the line - motor or LED starts doing it's job. The higher the hand "touches" line marker, the larger amount od voltage will be delivered to an actuator. Check ---> [this video](https://youtu.be/mrOUgTbqgY0) to see how the system works.
+When the point representing the hand comes into contact with the line - motor or LED starts doing it's job. The higher the hand "touches" line marker, the larger amount od voltage will be delivered to an actuator.
